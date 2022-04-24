@@ -1110,7 +1110,7 @@ input, select, textarea {
 	}
 
 	/*   */
-	#status{
+	/*#status{
 		width: 90%;
 		max-width: 500px;
 		text-align: center;
@@ -1141,7 +1141,7 @@ input, select, textarea {
 			pointer-events: none;
 		}
 		
-	}
+	} */
 /* BG */
 
 	#bg {
